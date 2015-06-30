@@ -10,6 +10,15 @@
 <img src="http://2.bp.blogspot.com/_AyEQCDyyQ94/SwuNxwqdRkI/AAAAAAAAABY/W2mmaHqD3HI/s1600/Hacker.png" height="200" align="right" hspace="20"> You just began your job as Web Developer, but the company is not very good at organizing their files. Somehow all files ended up in the wrong folders! It's your job to move through their directory structure and put the files in their right place for a proper Sinatra application (we will learn more about Sinatra later). The files have been named really well, so figuring out their correct location shouldn't be too tricky. (If you are having difficulty with this, look at what a the file structure for a proper Sinatra application should look like look at the assignment 'hs-sinatra-project-template')
 
 
+`.rb` files go in the `models` folder
+
+'.erb' files go in the `views` folder
+
+`.png` and `.jpg` files go in the `images` folder within `public`
+
+`.css` files go in the `css` folder within `public`
+
+
 Because you're a legit programmer, you know the most efficient way is to navigate the directories on the command line. Use your bash command line skills to move the photos into their correct folders!
 
 As a refresher, here's a list of commands to help you with this task:
