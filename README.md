@@ -9,6 +9,7 @@
 ### Instructions
 <img src="http://2.bp.blogspot.com/_AyEQCDyyQ94/SwuNxwqdRkI/AAAAAAAAABY/W2mmaHqD3HI/s1600/Hacker.png" height="200" align="right" hspace="20"> You just began your job as Web Developer, but the company is not very good at organizing their files. Somehow all files ended up in the wrong folders! It's your job to move through their directory structure and put the files in their right place for a proper Sinatra application (we will learn more about Sinatra later). The files have been named really well, so figuring out their correct location shouldn't be too tricky. (If you are having difficulty with this, look at what a the file structure for a proper Sinatra application should look like look at the assignment 'hs-sinatra-project-template')
 
+
 Because you're a legit programmer, you know the most efficient way is to navigate the directories on the command line. Use your bash command line skills to move the photos into their correct folders!
 
 As a refresher, here's a list of commands to help you with this task:
@@ -38,6 +39,8 @@ No prob. Try typing `sudo bundle install`. It will prompt you for your computer'
 ### Get working!
 
 From the `hs-sinatra-organizer` directory,  run `ruby test.rb` to check your progress! `test.rb` contains code that will check your placement of the files to see if they are in the right place or not. This file will also print the result to the terminal screen, so you can keep track of which files you've organized correctly.
+
+##DO NOT MOVE THE 'test.rb'
 
 Use the commands we've learned to move the animals to their right places. If everything prints green, you've successfully organized all the files!
 <br>
