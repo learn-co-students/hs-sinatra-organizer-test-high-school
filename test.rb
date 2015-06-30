@@ -3,12 +3,13 @@ require 'colorize'
 class Document
 
   LOCATIONS = {
-    :index.erb => './views/index.erb',
-    :user.rb => './models/user.rb',
-    :FS_Circle_Slashes.png => './public/images/FS_Circle_Slashes.png',
-    :stylesheet.css => './cats/outdoor/north-america/north-american-wild-cat.jpg',
-    :login.erb => './views/login.erb',
-    :application_controller.rb => './'
+    :index_erb => './views/index.erb',
+    :user_rb => './models/user.rb',
+    :fs_circle_slashes_png => './public/images/FS_Circle_Slashes.png',
+    :stylesheet_css => './public/css/stylesheet.css',
+    :login_erb => './views/login.erb',
+    :ruby_rb => './models/ruby.rb',
+    :flatiron_jpg => './public/images/flatiron.jpg'
   }
 
   def self.print_response
