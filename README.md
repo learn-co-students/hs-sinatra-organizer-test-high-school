@@ -35,7 +35,7 @@ From the `hs-sinatra-organizer` directory,  run `ruby test.rb` to check your pro
 
 Your job is to find and move the following files: 
 
-`user.rb`, `model.rb`, and `ruby.rb` go in the `models` folder
+`user.rb` and `ruby.rb` go in the `models` folder
 
 `login.erb` and `index.erb`  go in the `views` folder
 
