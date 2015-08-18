@@ -1,11 +1,13 @@
 ## Organize Your Sinatra Template
 
 ### Instructions
-<img src="http://2.bp.blogspot.com/_AyEQCDyyQ94/SwuNxwqdRkI/AAAAAAAAABY/W2mmaHqD3HI/s1600/Hacker.png" height="200" align="right" hspace="20"> You just began your job as Web Developer, but the company is not very good at organizing their files. Somehow all files ended up in the wrong folders! It's your job to move through their directory structure and put the files in their right place for a proper Sinatra application (we will learn what all of these files during the rest of this class). Because you're a legit programmer, you know the most efficient way is to navigate the directories on the command line. Use your bash command line skills to move the files into their correct folders!
+<img src="http://2.bp.blogspot.com/_AyEQCDyyQ94/SwuNxwqdRkI/AAAAAAAAABY/W2mmaHqD3HI/s1600/Hacker.png" height="200" align="right" hspace="20"> 
+
+You just began your job as Web Developer, but the company is not very good at organizing their files. Somehow all files ended up in the wrong folders! It's your job to move through their directory structure and put the files in their right place for a proper Sinatra application (we will learn what all of these files during the rest of this class). Because you're a legit programmer, you know the most efficient way is to navigate the directories on the command line. Use your bash command line skills to move the files into their correct folders!
 
 ### Step 1: Get the files and set up
 
-Go to the GitHub link at the top of the page and click on the "Download Zip" button on the bottom-right side of the screen. Once you've downloaded the file, double click it to unzip the file, and then drag the unzipped file (called 'hs-sinatra-organizer') to your desktop.
+Go to the GitHub link at the top of the page and click on the "Download Zip" button on the bottom-right side of the screen. Once you've downloaded the file, double click it to unzip the file, and then drag the unzipped file (called `hs-sinatra-organizer`) to your desktop.
 
 As a refresher, here's a list of commands to help you with this task:
 
@@ -18,8 +20,6 @@ As a refresher, here's a list of commands to help you with this task:
 `mv` move a file
 
 Remember, it's always helpful to know where you are in your directory tree in relation to where you want to go. Keep that in mind as you write out your command-line paths!
-
-Open your terminal and cd into desktop using `cd Desktop` and then cd into the file by typing `cd hs-sinatra-organizer`.
 
 ### Step 2: Run `bundle install`
 
@@ -35,13 +35,13 @@ From the `hs-sinatra-organizer` directory,  run `ruby test.rb` to check your pro
 
 Your job is to find and move the following files: 
 
-`user.rb` and `ruby.rb` go in the `models` folder
++ `user.rb` and `ruby.rb` go in the `models` folder
 
-`login.erb` and `index.erb`  go in the `views` folder
++ `login.erb` and `index.erb`  go in the `views` folder
 
-`FS_Circle_Slashes.png`, `the-flatiron-school-logo-sm-black.png`, and `flatiron.jpg` files go in the `images` directory within `public` directory
++ `FS_Circle_Slashes.png`, `the-flatiron-school-logo-sm-black.png`, and `flatiron.jpg` files go in the `images` directory within `public` directory
 
-`stylesheet.css` and `style.css` go in the `css` directory within `public`
++ `stylesheet.css` and `style.css` go in the `css` directory within the `public` directory
 
 
 Use the commands we've learned to move the files to their correct places. If everything prints green, you've successfully organized all the files!
