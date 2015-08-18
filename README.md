@@ -1,7 +1,7 @@
 ## Organize Your Sinatra Template
 
 ### Instructions
-<img src="http://2.bp.blogspot.com/_AyEQCDyyQ94/SwuNxwqdRkI/AAAAAAAAABY/W2mmaHqD3HI/s1600/Hacker.png" height="200" align="right" hspace="20"> 
+<img src="https://s3.amazonaws.com/after-school-assets/hacker.png" height="200" align="right" hspace="20"> 
 
 You just began your job as Web Developer, but the company is not very good at organizing their files. Somehow all files ended up in the wrong folders! It's your job to move through their directory structure and put the files in their right place for a proper Sinatra application (we will learn what all of these files during the rest of this class). Because you're a legit programmer, you know the most efficient way is to navigate the directories on the command line. Use your bash command line skills to move the files into their correct folders!
 
